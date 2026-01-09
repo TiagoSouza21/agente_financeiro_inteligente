@@ -28,7 +28,7 @@ O foco é demonstrar **integração entre dados, IA e aplicações web**, seguin
 --------------------------
 
 A aplicação segue uma arquitetura simples, modular e escalável:
-```mermaid
+```text
 Usuário
   │
   ▼
